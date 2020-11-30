@@ -79,7 +79,7 @@ abstract class Kernel implements KernelInterface, RebootableInterface, Terminabl
     const MAJOR_VERSION = 5;
     const MINOR_VERSION = 3;
     const RELEASE_VERSION = 0;
-    const EXTRA_VERSION = 'DEV';
+    const EXTRA_VERSION = '';
 
     const END_OF_MAINTENANCE = '05/2021';
     const END_OF_LIFE = '01/2022';
